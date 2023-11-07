@@ -30,10 +30,12 @@ Leveraging MongoDB, an extensive query-based approach was employed to gather ins
 
 <img width="500" alt="Screenshot 2023-11-07 at 20 26 26" src="https://github.com/linharesjunior/project-III-geospatial-data/assets/146885366/905646e7-46ad-45fb-beea-e4edb4a1b42f">
 
-
+Drawing from the data, a comprehensive examination was conducted on the two primary cities. This analysis considered employee preferences in relation to various factors, including proximity to Starbucks, vegan restaurants, pet shops, basketball stadiums, child schools, and accessibility to airports.
 
 
 # Conclusion
+
+In conclusion, when considering employee preferences as a primary factor, the San Francisco location emerges as the more favorable option due to its ability to meet all the specified criteria. This includes accessibility to Starbucks, vegan restaurants, pet shops, basketball stadiums, child schools, and convenient airport access. While the Los Angeles location may be closer to the airport, it falls short in meeting these diverse employee preferences, making the San Francisco location a well-rounded choice for the office placement.
 
 # Presentation link
 
